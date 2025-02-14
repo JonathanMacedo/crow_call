@@ -1,32 +1,47 @@
-# Crow Call
+# Crow Call  
+## 😺 Introdução  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+Bem-vindo ao **Crow Call**, um projeto criado para aprendizado e compartilhamento! Todo o conteúdo aqui está disponível para que você use como quiser, seja para estudo ou para criar suas próprias soluções.  
 
-<img src="assets/imagem.PNG" alt="Crow Call">
+![GitHub top language](https://img.shields.io/github/languages/top/JonathanMacedo/crow_call)  
 
-> Projeto inspirado no Zoom, onde é possivel criar videochamadas, agendar e gravar.
+<img src="assets/imagem.PNG" alt="Crow Call">  
 
-## 💻 Pré-requisitos
+> Inspirado no Zoom, o **Crow Call** permite que você crie videochamadas, agende reuniões e até grave suas conversas.  
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+---
 
-- Você instalou a versão mais recente de `Node`
-- Você tem uma máquina `<Windows / Linux / Mac>`.
+## 👨‍💻 Tecnologias utilizadas  
 
-## ☕ Usando Crow Call
+Este projeto foi desenvolvido com as seguintes tecnologias e ferramentas incríveis:  
 
-Para usar Crow Call, siga estas etapas:
+- **TypeScript**  
+- **Next.js**  
+- **Clerk**  
+- **GetStream**  
+- **Tailwind CSS**  
+- **Shadcn**  
 
-1. Instale as dependencias:
-```
+---
 
+## 💻 Pré-requisitos  
+
+Antes de começar, certifique-se de atender aos seguintes requisitos:  
+
+- Você tem a versão mais recente do **Node** instalada.  
+- Está usando um sistema operacional compatível (**Windows**, **Linux** ou **Mac**).  
+
+---
+
+## ☕ Usando o Crow Call  
+
+Para começar a usar o **Crow Call**, siga os passos abaixo:  
+
+1. **Instale as dependências:**  
+```bash
 npm install
-
 ```
+
 2. Crie um arquivo .env:
 ```env
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
@@ -40,28 +55,32 @@ STREAM_SECRET_KEY=
 ```
 3. Crie uma conta no Clerk:
    
-<img src="assets/clerk.png" alt="Tela criar conta">
+<img src="assets/clerk.PNG" alt="Tela criar conta">
 
 4. Copie as duas keys e cole em:
 
-<img src="assets/clerkkeys.png" alt="Keys">
+<img src="assets/clerkkeys.PNG" alt="Keys">
 
 ```env
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
 ```
-5. Crie uma conta no Stream:
+5. Crie uma conta no GetStream:
 
-<img src="assets/stream.png" alt="Tela criar conta">
+<img src="assets/stream.PNG" alt="Tela criar conta">
 
-6.Copie as duas keys e cole em:
+6. Copie as duas keys e cole em:
 
-<img src="assets/streamkeys.png" alt="Keys">
+<img src="assets/streamkeys.PNG" alt="Keys">
 
 ```env
 NEXT_PUBLIC_STREAM_API_KEY=
 STREAM_SECRET_KEY=
 ```
+
+## 🎉 Pronto!
+Agora é só usar o Crow Call e aproveitar ao máximo todas as suas funcionalidades! 😁
+
 
 ## 📝 Licença
 
