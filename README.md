@@ -24,6 +24,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias e ferramentas incrív
 
 ---
 
+## 🤔 Preciso baixar todos esses aquivos para conseguir usar o **Crow Call**?
+ 
+ Você pode usar o site [Crow Call](https://crow-call.vercel.app/) e já realizar suas videochamadas, mas se quiser baixar e criar o seu próprio site é só  seguir o passo a passo abaixo. 😉
+
+
 ## 💻 Pré-requisitos  
 
 Antes de começar, certifique-se de atender aos seguintes requisitos:  
