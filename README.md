@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="assets/imagem.png" alt="Crow Call">
+<img src="assets/imagem.PNG" alt="Crow Call">
 
 > Projeto inspirado no Zoom, onde é possivel criar videochamadas, agendar e gravar.
 
