@@ -5,7 +5,11 @@ Bem-vindo ao **Crow Call**, um projeto criado para aprendizado e compartilhament
 
 ![GitHub top language](https://img.shields.io/github/languages/top/JonathanMacedo/crow_call)  
 
-<img src="assets/imagem.PNG" alt="Crow Call">  
+
+
+https://github.com/user-attachments/assets/eff44841-e0b8-42b2-b14d-261234bf2b34
+
+
 
 > Inspirado no Zoom, o **Crow Call** permite que você crie videochamadas, agende reuniões e até grave suas conversas.  
 
